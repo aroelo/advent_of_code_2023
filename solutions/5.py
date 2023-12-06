@@ -141,8 +141,7 @@ def main():
     first_answer = part_1(file_path)
     assert first_answer == 227653707
     second_answer = part_2(file_path)
-    # I forgot
-    assert second_answer == 0
+    assert second_answer == 78775051
 
 
 if __name__ == "__main__":
